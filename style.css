@@ -1,0 +1,38 @@
+body{
+    background-image: url('img/a80e081f85d0a3bb10a7d7466a4f55f2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul{
+    color: white;
+    border-style: none;
+    border-color: rgb(255, 0, 0);
+    border-width: 10px;
+}
+h1{
+    color: white;
+    font-size:50px;
+    border-style: none;
+    border-color: rgb(255, 0, 0);
+    border-width: 10px;
+}
+footer{
+    color: white;
+    border-style: none;
+    border-color: rgb(255, 0, 0);
+    border-width: 10px;
+}
+.carro1{
+    color: blueviolet;
+}
+.titulo{
+    color: red;
+}
+.direitos{
+    color: violet;
+}
+#exemplo h1{
+    color: rgb(255, 127, 127);
+
+}
